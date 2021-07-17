@@ -2,7 +2,7 @@
 @import "utilites";
 
 .header {
-  margin-top: 5.125rem;
+  margin-top: 8.125rem;
 
   .header-flex {
     @media (min-width: 62.25rem) {
@@ -22,12 +22,12 @@
   &-title {
     padding: 0 1.75rem;
     color: $very-dark-magenta;
-    font-size: 1.875rem;
+    font-size: 2.5rem;
     font-weight: $font-weight-700;
 
     @media (min-width: 62.25rem) {
       padding: 0;
-      width: 18.75rem;
+      width: 20.75rem;
     }
   }
 

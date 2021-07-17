@@ -49,7 +49,7 @@ body {
 }
 
 .header {
-  margin-top: 5.125rem;
+  margin-top: 8.125rem;
 }
 
 @media (min-width: 62.25rem) {
@@ -75,14 +75,14 @@ body {
 .header-title {
   padding: 0 1.75rem;
   color: #502050;
-  font-size: 1.875rem;
+  font-size: 2.5rem;
   font-weight: 700;
 }
 
 @media (min-width: 62.25rem) {
   .header-title {
     padding: 0;
-    width: 18.75rem;
+    width: 20.75rem;
   }
 }
 
